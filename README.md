@@ -1,42 +1,77 @@
 # MPI Network Intrusion Detection System
 
+A parallel cybersecurity log analysis system built using MPI (Message Passing Interface) to detect and correlate network attacks within the UNSW-NB15 intrusion detection dataset.
+
+---
+
 ## Overview
 
-This project implements a parallel network intrusion detection system using MPI (Message Passing Interface) and the UNSW-NB15 cybersecurity dataset.
+This project demonstrates the application of parallel and distributed computing techniques to large-scale cybersecurity data analysis. The system distributes network traffic records across multiple MPI processes, enabling faster detection of malicious activity and improved scalability compared to a traditional serial implementation.
 
-The system distributes network log analysis across multiple processes to improve performance and scalability when detecting suspicious activities such as:
+The project consists of:
 
-- Denial of Service (DoS) attacks
-- Backdoor attacks
-- Reconnaissance attacks
-
-The project compares serial and parallel execution approaches and demonstrates the benefits of distributed processing for large-scale cybersecurity datasets.
+- Parallel attack detection
+- Distributed attack correlation
+- Serial baseline implementation for performance comparison
 
 ---
 
 ## Features
 
-### Question 1
-- Parallel processing using MPI
-- Batch-based file distribution
-- Detection of:
+### MPI Intrusion Detector
+
+Implemented in:
+
+```text
+src/mpi_intrusion_detector.c
+```
+
+Capabilities:
+
+- Parallel processing of network logs
+- Detection of malicious traffic patterns
+- Identification of:
   - DoS attacks
   - Backdoor attacks
   - Reconnaissance attacks
-- Global checksum verification
-- Execution logging
-- Performance measurement
+- Workload distribution among MPI processes
+- Checksum validation for result consistency
+- Execution time measurement
 
-### Question 2
+---
+
+### MPI Attack Correlator
+
+Implemented in:
+
+```text
+src/mpi_attack_correlator.c
+```
+
+Capabilities:
+
 - Cross-process attack correlation
-- Distributed source IP analysis
-- Distributed destination port analysis
-- Multi-process suspicious activity tracking
-- Detailed correlation logging
+- Suspicious source IP analysis
+- Destination port pattern analysis
+- Aggregation of attack indicators from distributed nodes
+- Security event correlation reporting
+- Detailed execution logging
 
-### Serial Version
-- Single-process implementation
-- Used for performance comparison against MPI implementation
+---
+
+### Baseline Detector
+
+Implemented in:
+
+```text
+src/baseline_intrusion_detector.c
+```
+
+Capabilities:
+
+- Single-process execution
+- Baseline performance measurements
+- Comparison against MPI implementations
 
 ---
 
@@ -44,12 +79,18 @@ The project compares serial and parallel execution approaches and demonstrates t
 
 The project uses the UNSW-NB15 Network Intrusion Detection Dataset.
 
-Files analyzed:
+Files analyzed include:
 
-- UNSW-NB15_1.csv
-- UNSW-NB15_2.csv
-- UNSW-NB15_3.csv
-- UNSW-NB15_4.csv
+```text
+UNSW-NB15_1.csv
+UNSW-NB15_2.csv
+UNSW-NB15_3.csv
+UNSW-NB15_4.csv
+```
+
+Dataset source:
+
+:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -60,75 +101,83 @@ Files analyzed:
 - Parallel Computing
 - Distributed Systems
 - Cybersecurity Analytics
+- Network Traffic Analysis
 
 ---
 
 ## Project Structure
 
-```
-i221588_i221713_A/
+```text
+mpi-network-intrusion-detection/
 │
-├── i221588_i221713_Q1.c
-├── i221588_i221713_Q2.c
-├── i221588_i221713_serial.c
+├── src/
+│   ├── mpi_intrusion_detector.c
+│   ├── mpi_attack_correlator.c
+│   └── baseline_intrusion_detector.c
 │
-├── Output Log Files/
-│   ├── OutputLog_Q1_1Process.txt
-│   ├── OutputLog_Q1_2Processes.txt
-│   ├── OutputLog_Q1_4Processes.txt
-│   ├── OutputLog_Q1_8Processes.txt
-│   ├── OutputLog_Q2_1Process.txt
-│   ├── OutputLog_Q2_2Processes.txt
-│   ├── OutputLog_Q2_4Processes.txt
-│   └── OutputLog_Q2_8Processes.txt
+├── logs/
+│   ├── q1_1_process.txt
+│   ├── q1_2_processes.txt
+│   ├── q1_4_processes.txt
+│   ├── q1_8_processes.txt
+│   ├── q2_1_process.txt
+│   ├── q2_2_processes.txt
+│   ├── q2_4_processes.txt
+│   └── q2_8_processes.txt
 │
-└── Project_Report.pdf
+├── report/
+│   └── Project_Report.pdf
+│
+├── README.md
+└── .gitignore
 ```
 
 ---
 
 ## Compilation
 
-### MPI Programs
-
-Compile Q1:
+### Compile MPI Intrusion Detector
 
 ```bash
-mpicc i221588_i221713_Q1.c -o q1
+mpicc src/mpi_intrusion_detector.c -o intrusion_detector
 ```
 
-Compile Q2:
+### Compile MPI Attack Correlator
 
 ```bash
-mpicc i221588_i221713_Q2.c -o q2
+mpicc src/mpi_attack_correlator.c -o attack_correlator
 ```
 
-### Serial Program
+### Compile Baseline Detector
 
 ```bash
-gcc i221588_i221713_serial.c -o serial
+gcc src/baseline_intrusion_detector.c -o baseline_detector
 ```
 
 ---
 
 ## Execution
 
-### MPI Execution
+### Run Intrusion Detector
 
-Run with 4 processes:
+Using 4 MPI processes:
 
 ```bash
-mpirun -np 4 ./q1
+mpirun -np 4 ./intrusion_detector
 ```
 
+### Run Attack Correlator
+
+Using 4 MPI processes:
+
 ```bash
-mpirun -np 4 ./q2
+mpirun -np 4 ./attack_correlator
 ```
 
-### Serial Execution
+### Run Baseline Detector
 
 ```bash
-./serial
+./baseline_detector
 ```
 
 ---
@@ -137,21 +186,46 @@ mpirun -np 4 ./q2
 
 The project evaluates:
 
-- Execution time
-- Scalability
-- Attack detection accuracy
+- Parallel execution speedup
+- Scalability across multiple processes
+- Detection accuracy
+- Load distribution efficiency
 - Checksum validation
-- Process distribution efficiency
+- Security event correlation effectiveness
 
-using 1, 2, 4, and 8 processes.
+Testing was conducted using:
+
+```text
+1 Process
+2 Processes
+4 Processes
+8 Processes
+```
+
+---
+
+## Learning Outcomes
+
+- MPI process management
+- Distributed workload partitioning
+- Parallel file processing
+- Inter-process communication
+- Cybersecurity log analytics
+- Performance benchmarking
+- Distributed attack correlation
 
 ---
 
 ## Authors
 
-- Eman Akbar (22I-1588)
-- Partner: 22I-1713
-
+**Eman Akbar**  
 FAST National University of Computer and Emerging Sciences
 
-Course: Parallel and Distributed Computing
+
+---
+
+## Course Information
+
+**Course:** Parallel and Distributed Computing
+
+This project was developed as part of coursework focused on applying distributed computing concepts to real-world cybersecurity problems.
