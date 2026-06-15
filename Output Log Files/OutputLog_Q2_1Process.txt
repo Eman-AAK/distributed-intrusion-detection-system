@@ -1,0 +1,563 @@
+===== Q2: Cross-Process Correlation Log =====
+Processes: 1
+
+
+=== Reading file: UNSW-NB15_1.csv ===
+batch 1 loaded (20000 logs)
+batch 1 completed — malicious hits: 252  checksum contribution: 250789426
+batch 2 loaded (20000 logs)
+batch 2 completed — malicious hits: 308  checksum contribution: 245364991
+batch 3 loaded (20000 logs)
+batch 3 completed — malicious hits: 316  checksum contribution: 246429933
+batch 4 loaded (20000 logs)
+batch 4 completed — malicious hits: 278  checksum contribution: 246009973
+batch 5 loaded (20000 logs)
+batch 5 completed — malicious hits: 1147  checksum contribution: 228459801
+batch 6 loaded (20000 logs)
+batch 6 completed — malicious hits: 259  checksum contribution: 238870185
+batch 7 loaded (20000 logs)
+batch 7 completed — malicious hits: 236  checksum contribution: 231388109
+batch 8 loaded (20000 logs)
+batch 8 completed — malicious hits: 298  checksum contribution: 238100947
+batch 9 loaded (20000 logs)
+batch 9 completed — malicious hits: 301  checksum contribution: 239858079
+batch 10 loaded (20000 logs)
+batch 10 completed — malicious hits: 65  checksum contribution: 244067893
+batch 11 loaded (20000 logs)
+batch 11 completed — malicious hits: 0  checksum contribution: 246192168
+batch 12 loaded (20000 logs)
+batch 12 completed — malicious hits: 0  checksum contribution: 244683640
+batch 13 loaded (20000 logs)
+batch 13 completed — malicious hits: 0  checksum contribution: 245237548
+batch 14 loaded (20000 logs)
+batch 14 completed — malicious hits: 0  checksum contribution: 244565490
+batch 15 loaded (20000 logs)
+batch 15 completed — malicious hits: 0  checksum contribution: 245543787
+batch 16 loaded (20000 logs)
+batch 16 completed — malicious hits: 0  checksum contribution: 245111893
+batch 17 loaded (20000 logs)
+batch 17 completed — malicious hits: 0  checksum contribution: 245558948
+batch 18 loaded (20000 logs)
+batch 18 completed — malicious hits: 0  checksum contribution: 245850840
+batch 19 loaded (20000 logs)
+batch 19 completed — malicious hits: 0  checksum contribution: 245101637
+batch 20 loaded (20000 logs)
+batch 20 completed — malicious hits: 0  checksum contribution: 245154259
+batch 21 loaded (20000 logs)
+batch 21 completed — malicious hits: 0  checksum contribution: 248299350
+batch 22 loaded (20000 logs)
+batch 22 completed — malicious hits: 0  checksum contribution: 253860923
+batch 23 loaded (20000 logs)
+batch 23 completed — malicious hits: 0  checksum contribution: 254849726
+batch 24 loaded (20000 logs)
+batch 24 completed — malicious hits: 0  checksum contribution: 253261327
+batch 25 loaded (20000 logs)
+batch 25 completed — malicious hits: 0  checksum contribution: 248631814
+batch 26 loaded (20000 logs)
+batch 26 completed — malicious hits: 0  checksum contribution: 245965414
+batch 27 loaded (20000 logs)
+batch 27 completed — malicious hits: 0  checksum contribution: 245861321
+batch 28 loaded (20000 logs)
+batch 28 completed — malicious hits: 0  checksum contribution: 247235669
+batch 29 loaded (20000 logs)
+batch 29 completed — malicious hits: 0  checksum contribution: 246408769
+batch 30 loaded (20000 logs)
+batch 30 completed — malicious hits: 0  checksum contribution: 245346297
+batch 31 loaded (20000 logs)
+batch 31 completed — malicious hits: 0  checksum contribution: 245033476
+batch 32 loaded (20000 logs)
+batch 32 completed — malicious hits: 0  checksum contribution: 245122192
+batch 33 loaded (20000 logs)
+batch 33 completed — malicious hits: 0  checksum contribution: 244967527
+batch 34 loaded (20000 logs)
+batch 34 completed — malicious hits: 0  checksum contribution: 246832417
+batch 35 loaded (20000 logs)
+batch 35 completed — malicious hits: 0  checksum contribution: 243417051
+batch 36 loaded (0 logs)
+
+=== Reading file: UNSW-NB15_2.csv ===
+batch 1 loaded (20000 logs)
+batch 1 completed — malicious hits: 0  checksum contribution: 244208859
+batch 2 loaded (20000 logs)
+batch 2 completed — malicious hits: 0  checksum contribution: 244947400
+batch 3 loaded (20000 logs)
+batch 3 completed — malicious hits: 0  checksum contribution: 245734282
+batch 4 loaded (20000 logs)
+batch 4 completed — malicious hits: 0  checksum contribution: 246196227
+batch 5 loaded (20000 logs)
+batch 5 completed — malicious hits: 0  checksum contribution: 246410250
+batch 6 loaded (20000 logs)
+batch 6 completed — malicious hits: 0  checksum contribution: 245377807
+batch 7 loaded (20000 logs)
+batch 7 completed — malicious hits: 0  checksum contribution: 245902006
+batch 8 loaded (20000 logs)
+batch 8 completed — malicious hits: 0  checksum contribution: 246587906
+batch 9 loaded (20000 logs)
+batch 9 completed — malicious hits: 0  checksum contribution: 247408878
+batch 10 loaded (20000 logs)
+batch 10 completed — malicious hits: 0  checksum contribution: 245577057
+batch 11 loaded (20000 logs)
+batch 11 completed — malicious hits: 0  checksum contribution: 245457655
+batch 12 loaded (20000 logs)
+batch 12 completed — malicious hits: 0  checksum contribution: 245995788
+batch 13 loaded (20000 logs)
+batch 13 completed — malicious hits: 0  checksum contribution: 245837436
+batch 14 loaded (20000 logs)
+batch 14 completed — malicious hits: 0  checksum contribution: 245957841
+batch 15 loaded (20000 logs)
+batch 15 completed — malicious hits: 0  checksum contribution: 244889884
+batch 16 loaded (20000 logs)
+batch 16 completed — malicious hits: 0  checksum contribution: 247091385
+batch 17 loaded (20000 logs)
+batch 17 completed — malicious hits: 0  checksum contribution: 245469767
+batch 18 loaded (20000 logs)
+batch 18 completed — malicious hits: 0  checksum contribution: 246985671
+batch 19 loaded (20000 logs)
+batch 19 completed — malicious hits: 0  checksum contribution: 245900770
+batch 20 loaded (20000 logs)
+batch 20 completed — malicious hits: 0  checksum contribution: 245954373
+batch 21 loaded (20000 logs)
+batch 21 completed — malicious hits: 0  checksum contribution: 244674211
+batch 22 loaded (20000 logs)
+batch 22 completed — malicious hits: 0  checksum contribution: 244071740
+batch 23 loaded (20000 logs)
+batch 23 completed — malicious hits: 0  checksum contribution: 212788315
+batch 24 loaded (20000 logs)
+batch 24 completed — malicious hits: 0  checksum contribution: 226105008
+batch 25 loaded (20000 logs)
+batch 25 completed — malicious hits: 0  checksum contribution: 224450974
+batch 26 loaded (20000 logs)
+batch 26 completed — malicious hits: 0  checksum contribution: 220402186
+batch 27 loaded (20000 logs)
+batch 27 completed — malicious hits: 0  checksum contribution: 229882620
+batch 28 loaded (20000 logs)
+batch 28 completed — malicious hits: 0  checksum contribution: 239179270
+batch 29 loaded (20000 logs)
+batch 29 completed — malicious hits: 0  checksum contribution: 245735454
+batch 30 loaded (20000 logs)
+batch 30 completed — malicious hits: 0  checksum contribution: 245776475
+batch 31 loaded (20000 logs)
+batch 31 completed — malicious hits: 0  checksum contribution: 244531628
+batch 32 loaded (20000 logs)
+batch 32 completed — malicious hits: 0  checksum contribution: 244226034
+batch 33 loaded (20000 logs)
+batch 33 completed — malicious hits: 0  checksum contribution: 231886601
+batch 34 loaded (20000 logs)
+batch 34 completed — malicious hits: 0  checksum contribution: 205942333
+batch 35 loaded (20000 logs)
+batch 35 completed — malicious hits: 0  checksum contribution: 221661923
+batch 36 loaded (0 logs)
+
+=== Reading file: UNSW-NB15_3.csv ===
+batch 1 loaded (20000 logs)
+batch 1 completed — malicious hits: 0  checksum contribution: 217047256
+batch 2 loaded (20000 logs)
+batch 2 completed — malicious hits: 0  checksum contribution: 210863783
+batch 3 loaded (20000 logs)
+batch 3 completed — malicious hits: 0  checksum contribution: 205395445
+batch 4 loaded (20000 logs)
+batch 4 completed — malicious hits: 0  checksum contribution: 215367104
+batch 5 loaded (20000 logs)
+batch 5 completed — malicious hits: 0  checksum contribution: 221045236
+batch 6 loaded (20000 logs)
+batch 6 completed — malicious hits: 0  checksum contribution: 219116622
+batch 7 loaded (20000 logs)
+batch 7 completed — malicious hits: 0  checksum contribution: 216877701
+batch 8 loaded (20000 logs)
+batch 8 completed — malicious hits: 0  checksum contribution: 246796297
+batch 9 loaded (20000 logs)
+batch 9 completed — malicious hits: 0  checksum contribution: 243044199
+batch 10 loaded (20000 logs)
+batch 10 completed — malicious hits: 0  checksum contribution: 244361314
+batch 11 loaded (20000 logs)
+batch 11 completed — malicious hits: 0  checksum contribution: 241527075
+batch 12 loaded (20000 logs)
+batch 12 completed — malicious hits: 0  checksum contribution: 205919456
+batch 13 loaded (20000 logs)
+batch 13 completed — malicious hits: 0  checksum contribution: 219905643
+batch 14 loaded (20000 logs)
+batch 14 completed — malicious hits: 0  checksum contribution: 221350909
+batch 15 loaded (20000 logs)
+batch 15 completed — malicious hits: 0  checksum contribution: 214345902
+batch 16 loaded (20000 logs)
+batch 16 completed — malicious hits: 0  checksum contribution: 212197698
+batch 17 loaded (20000 logs)
+batch 17 completed — malicious hits: 0  checksum contribution: 223541348
+batch 18 loaded (20000 logs)
+batch 18 completed — malicious hits: 0  checksum contribution: 226422629
+batch 19 loaded (20000 logs)
+batch 19 completed — malicious hits: 0  checksum contribution: 224157272
+batch 20 loaded (20000 logs)
+batch 20 completed — malicious hits: 0  checksum contribution: 246423125
+batch 21 loaded (20000 logs)
+batch 21 completed — malicious hits: 0  checksum contribution: 244859365
+batch 22 loaded (20000 logs)
+batch 22 completed — malicious hits: 0  checksum contribution: 242384412
+batch 23 loaded (20000 logs)
+batch 23 completed — malicious hits: 0  checksum contribution: 244489783
+batch 24 loaded (20000 logs)
+batch 24 completed — malicious hits: 0  checksum contribution: 221915830
+batch 25 loaded (20000 logs)
+batch 25 completed — malicious hits: 0  checksum contribution: 212260553
+batch 26 loaded (20000 logs)
+batch 26 completed — malicious hits: 0  checksum contribution: 227816983
+batch 27 loaded (20000 logs)
+batch 27 completed — malicious hits: 0  checksum contribution: 219609942
+batch 28 loaded (20000 logs)
+batch 28 completed — malicious hits: 0  checksum contribution: 210231179
+batch 29 loaded (20000 logs)
+batch 29 completed — malicious hits: 0  checksum contribution: 210609807
+batch 30 loaded (20000 logs)
+batch 30 completed — malicious hits: 0  checksum contribution: 220057550
+batch 31 loaded (20000 logs)
+batch 31 completed — malicious hits: 0  checksum contribution: 225532811
+batch 32 loaded (20000 logs)
+batch 32 completed — malicious hits: 0  checksum contribution: 221063260
+batch 33 loaded (20000 logs)
+batch 33 completed — malicious hits: 0  checksum contribution: 217963165
+batch 34 loaded (20000 logs)
+batch 34 completed — malicious hits: 0  checksum contribution: 246035752
+batch 35 loaded (20000 logs)
+batch 35 completed — malicious hits: 0  checksum contribution: 243334153
+batch 36 loaded (0 logs)
+
+=== Reading file: UNSW-NB15_4.csv ===
+batch 1 loaded (20000 logs)
+batch 1 completed — malicious hits: 0  checksum contribution: 245037609
+batch 2 loaded (20000 logs)
+batch 2 completed — malicious hits: 0  checksum contribution: 242233509
+batch 3 loaded (20000 logs)
+batch 3 completed — malicious hits: 0  checksum contribution: 206907253
+batch 4 loaded (20000 logs)
+batch 4 completed — malicious hits: 0  checksum contribution: 220592526
+batch 5 loaded (20000 logs)
+batch 5 completed — malicious hits: 0  checksum contribution: 227158092
+batch 6 loaded (20000 logs)
+batch 6 completed — malicious hits: 0  checksum contribution: 212369565
+batch 7 loaded (20000 logs)
+batch 7 completed — malicious hits: 0  checksum contribution: 209758415
+batch 8 loaded (20000 logs)
+batch 8 completed — malicious hits: 0  checksum contribution: 220675486
+batch 9 loaded (20000 logs)
+batch 9 completed — malicious hits: 0  checksum contribution: 228697169
+batch 10 loaded (20000 logs)
+batch 10 completed — malicious hits: 0  checksum contribution: 224550607
+batch 11 loaded (20000 logs)
+batch 11 completed — malicious hits: 0  checksum contribution: 223680187
+batch 12 loaded (20000 logs)
+batch 12 completed — malicious hits: 0  checksum contribution: 246627601
+batch 13 loaded (20000 logs)
+batch 13 completed — malicious hits: 0  checksum contribution: 242353892
+batch 14 loaded (20000 logs)
+batch 14 completed — malicious hits: 0  checksum contribution: 245568135
+batch 15 loaded (20000 logs)
+batch 15 completed — malicious hits: 0  checksum contribution: 233079927
+batch 16 loaded (20000 logs)
+batch 16 completed — malicious hits: 0  checksum contribution: 209760478
+batch 17 loaded (20000 logs)
+batch 17 completed — malicious hits: 0  checksum contribution: 223167945
+batch 18 loaded (20000 logs)
+batch 18 completed — malicious hits: 0  checksum contribution: 222581363
+batch 19 loaded (20000 logs)
+batch 19 completed — malicious hits: 0  checksum contribution: 216805735
+batch 20 loaded (20000 logs)
+batch 20 completed — malicious hits: 0  checksum contribution: 215373504
+batch 21 loaded (20000 logs)
+batch 21 completed — malicious hits: 0  checksum contribution: 227150943
+batch 22 loaded (20000 logs)
+batch 22 completed — malicious hits: 0  checksum contribution: 228024730
+batch 23 loaded (43 logs)
+batch 23 completed — malicious hits: 0  checksum contribution: 521432
+batch 24 loaded (0 logs)
+
+===== GATHER RESULTS =====
+Process 0 — source IPs: 4  dest ports: 125
+
+===== RAW SOURCE IPs PER PROCESS =====
+Process 0:
+  175.45.176.0
+  175.45.176.3
+  175.45.176.1
+  175.45.176.2
+
+===== RAW DEST PORTS PER PROCESS =====
+Process 0:
+  port 80
+  port 111
+  port 502
+  port 162
+  port 110
+  port 161
+  port 64551
+  port 21
+  port 62999
+  port 5002
+  port 25
+  port 0
+  port 8080
+  port 445
+  port 143
+  port 554
+  port 443
+  port 6667
+  port 139
+  port 5060
+  port 4322
+  port 53
+  port 514
+  port 8028
+  port 1478
+  port 4444
+  port 23
+  port 4433
+  port 548
+  port 2140
+  port 1723
+  port 19813
+  port 515
+  port 3612
+  port 137
+  port 1530
+  port 26274
+  port 1024
+  port 5900
+  port 6969
+  port 67
+  port 1217
+  port 2049
+  port 905
+  port 47252
+  port 20101
+  port 69
+  port 9850
+  port 8443
+  port 135
+  port 7500
+  port 1521
+  port 61937
+  port 9999
+  port 389
+  port 705
+  port 43091
+  port 4377
+  port 30029
+  port 12807
+  port 42864
+  port 123
+  port 631
+  port 3333
+  port 15577
+  port 4569
+  port 5512
+  port 59440
+  port 38292
+  port 30888
+  port 2000
+  port 43474
+  port 50000
+  port 19300
+  port 2148
+  port 500
+  port 1011
+  port 1900
+  port 5555
+  port 6014
+  port 5600
+  port 464
+  port 23476
+  port 555
+  port 88
+  port 44305
+  port 2001
+  port 8300
+  port 51178
+  port 37022
+  port 20001
+  port 3128
+  port 1099
+  port 10607
+  port 39205
+  port 6905
+  port 5000
+  port 21554
+  port 31
+  port 21735
+  port 23968
+  port 8088
+  port 3217
+  port 808
+  port 8008
+  port 138
+  port 5405
+  port 1581
+  port 1584
+  port 3916
+  port 1718
+  port 1013
+  port 1234
+  port 7144
+  port 47262
+  port 10008
+  port 1012
+  port 45759
+  port 4827
+  port 1014
+  port 3306
+  port 2690
+  port 6783
+  port 54444
+  port 1434
+
+===== CROSS-PROCESS IP CORRELATION =====
+IP: 175.45.176.0         → seen in 1 process  → single source
+IP: 175.45.176.3         → seen in 1 process  → single source
+IP: 175.45.176.1         → seen in 1 process  → single source
+IP: 175.45.176.2         → seen in 1 process  → single source
+
+===== CROSS-PROCESS PORT CORRELATION =====
+Port: 80       → targeted by 1 process  → single source
+Port: 111      → targeted by 1 process  → single source
+Port: 502      → targeted by 1 process  → single source
+Port: 162      → targeted by 1 process  → single source
+Port: 110      → targeted by 1 process  → single source
+Port: 161      → targeted by 1 process  → single source
+Port: 64551    → targeted by 1 process  → single source
+Port: 21       → targeted by 1 process  → single source
+Port: 62999    → targeted by 1 process  → single source
+Port: 5002     → targeted by 1 process  → single source
+Port: 25       → targeted by 1 process  → single source
+Port: 0        → targeted by 1 process  → single source
+Port: 8080     → targeted by 1 process  → single source
+Port: 445      → targeted by 1 process  → single source
+Port: 143      → targeted by 1 process  → single source
+Port: 554      → targeted by 1 process  → single source
+Port: 443      → targeted by 1 process  → single source
+Port: 6667     → targeted by 1 process  → single source
+Port: 139      → targeted by 1 process  → single source
+Port: 5060     → targeted by 1 process  → single source
+Port: 4322     → targeted by 1 process  → single source
+Port: 53       → targeted by 1 process  → single source
+Port: 514      → targeted by 1 process  → single source
+Port: 8028     → targeted by 1 process  → single source
+Port: 1478     → targeted by 1 process  → single source
+Port: 4444     → targeted by 1 process  → single source
+Port: 23       → targeted by 1 process  → single source
+Port: 4433     → targeted by 1 process  → single source
+Port: 548      → targeted by 1 process  → single source
+Port: 2140     → targeted by 1 process  → single source
+Port: 1723     → targeted by 1 process  → single source
+Port: 19813    → targeted by 1 process  → single source
+Port: 515      → targeted by 1 process  → single source
+Port: 3612     → targeted by 1 process  → single source
+Port: 137      → targeted by 1 process  → single source
+Port: 1530     → targeted by 1 process  → single source
+Port: 26274    → targeted by 1 process  → single source
+Port: 1024     → targeted by 1 process  → single source
+Port: 5900     → targeted by 1 process  → single source
+Port: 6969     → targeted by 1 process  → single source
+Port: 67       → targeted by 1 process  → single source
+Port: 1217     → targeted by 1 process  → single source
+Port: 2049     → targeted by 1 process  → single source
+Port: 905      → targeted by 1 process  → single source
+Port: 47252    → targeted by 1 process  → single source
+Port: 20101    → targeted by 1 process  → single source
+Port: 69       → targeted by 1 process  → single source
+Port: 9850     → targeted by 1 process  → single source
+Port: 8443     → targeted by 1 process  → single source
+Port: 135      → targeted by 1 process  → single source
+Port: 7500     → targeted by 1 process  → single source
+Port: 1521     → targeted by 1 process  → single source
+Port: 61937    → targeted by 1 process  → single source
+Port: 9999     → targeted by 1 process  → single source
+Port: 389      → targeted by 1 process  → single source
+Port: 705      → targeted by 1 process  → single source
+Port: 43091    → targeted by 1 process  → single source
+Port: 4377     → targeted by 1 process  → single source
+Port: 30029    → targeted by 1 process  → single source
+Port: 12807    → targeted by 1 process  → single source
+Port: 42864    → targeted by 1 process  → single source
+Port: 123      → targeted by 1 process  → single source
+Port: 631      → targeted by 1 process  → single source
+Port: 3333     → targeted by 1 process  → single source
+Port: 15577    → targeted by 1 process  → single source
+Port: 4569     → targeted by 1 process  → single source
+Port: 5512     → targeted by 1 process  → single source
+Port: 59440    → targeted by 1 process  → single source
+Port: 38292    → targeted by 1 process  → single source
+Port: 30888    → targeted by 1 process  → single source
+Port: 2000     → targeted by 1 process  → single source
+Port: 43474    → targeted by 1 process  → single source
+Port: 50000    → targeted by 1 process  → single source
+Port: 19300    → targeted by 1 process  → single source
+Port: 2148     → targeted by 1 process  → single source
+Port: 500      → targeted by 1 process  → single source
+Port: 1011     → targeted by 1 process  → single source
+Port: 1900     → targeted by 1 process  → single source
+Port: 5555     → targeted by 1 process  → single source
+Port: 6014     → targeted by 1 process  → single source
+Port: 5600     → targeted by 1 process  → single source
+Port: 464      → targeted by 1 process  → single source
+Port: 23476    → targeted by 1 process  → single source
+Port: 555      → targeted by 1 process  → single source
+Port: 88       → targeted by 1 process  → single source
+Port: 44305    → targeted by 1 process  → single source
+Port: 2001     → targeted by 1 process  → single source
+Port: 8300     → targeted by 1 process  → single source
+Port: 51178    → targeted by 1 process  → single source
+Port: 37022    → targeted by 1 process  → single source
+Port: 20001    → targeted by 1 process  → single source
+Port: 3128     → targeted by 1 process  → single source
+Port: 1099     → targeted by 1 process  → single source
+Port: 10607    → targeted by 1 process  → single source
+Port: 39205    → targeted by 1 process  → single source
+Port: 6905     → targeted by 1 process  → single source
+Port: 5000     → targeted by 1 process  → single source
+Port: 21554    → targeted by 1 process  → single source
+Port: 31       → targeted by 1 process  → single source
+Port: 21735    → targeted by 1 process  → single source
+Port: 23968    → targeted by 1 process  → single source
+Port: 8088     → targeted by 1 process  → single source
+Port: 3217     → targeted by 1 process  → single source
+Port: 808      → targeted by 1 process  → single source
+Port: 8008     → targeted by 1 process  → single source
+Port: 138      → targeted by 1 process  → single source
+Port: 5405     → targeted by 1 process  → single source
+Port: 1581     → targeted by 1 process  → single source
+Port: 1584     → targeted by 1 process  → single source
+Port: 3916     → targeted by 1 process  → single source
+Port: 1718     → targeted by 1 process  → single source
+Port: 1013     → targeted by 1 process  → single source
+Port: 1234     → targeted by 1 process  → single source
+Port: 7144     → targeted by 1 process  → single source
+Port: 47262    → targeted by 1 process  → single source
+Port: 10008    → targeted by 1 process  → single source
+Port: 1012     → targeted by 1 process  → single source
+Port: 45759    → targeted by 1 process  → single source
+Port: 4827     → targeted by 1 process  → single source
+Port: 1014     → targeted by 1 process  → single source
+Port: 3306     → targeted by 1 process  → single source
+Port: 2690     → targeted by 1 process  → single source
+Port: 6783     → targeted by 1 process  → single source
+Port: 54444    → targeted by 1 process  → single source
+Port: 1434     → targeted by 1 process  → single source
+
+===== CHECKSUM VALIDATION =====
+Global Checksum : 29833185496
+Compare against serial.c output — a match confirms
+no log segments were skipped or misprocessed.
+
+===== FINAL SUMMARY =====
+Total Malicious Activities    : 3460
+Global Checksum               : 29833185496
+Distributed Source IPs        : 0
+Distributed Dest Ports        : 0
+Processes used                : 1
+Execution Time                : 10.045560 seconds
+
+Final Suspicious IP List (broadcast to all processes):
+  (none)
+
+Final Suspicious Port List (broadcast to all processes):
+  (none)
+
+[OK] No distributed attack pattern detected.

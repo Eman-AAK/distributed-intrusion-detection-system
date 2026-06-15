@@ -1,0 +1,1047 @@
+Processing dataset using MPI (batch + scatter)
+Processes: 4
+
+
+=== Reading file: UNSW-NB15_1.csv ===
+batch 1 loaded (20000 logs)
+batch 1 per-process breakdown:
+  process 0 — dos:17  backdoor:0  recon:45
+  process 1 — dos:18  backdoor:0  recon:54
+  process 2 — dos:14  backdoor:0  recon:42
+  process 3 — dos:19  backdoor:2  recon:41
+batch 1 completed — dos:68 bkd:2 recon:182  checksum: 250789426
+
+batch 2 loaded (20000 logs)
+batch 2 per-process breakdown:
+  process 0 — dos:6  backdoor:3  recon:44
+  process 1 — dos:31  backdoor:1  recon:49
+  process 2 — dos:32  backdoor:0  recon:46
+  process 3 — dos:38  backdoor:11  recon:47
+batch 2 completed — dos:107 bkd:15 recon:186  checksum: 245364991
+
+batch 3 loaded (20000 logs)
+batch 3 per-process breakdown:
+  process 0 — dos:26  backdoor:3  recon:67
+  process 1 — dos:25  backdoor:1  recon:42
+  process 2 — dos:23  backdoor:1  recon:60
+  process 3 — dos:13  backdoor:0  recon:55
+batch 3 completed — dos:87 bkd:5 recon:224  checksum: 246429933
+
+batch 4 loaded (20000 logs)
+batch 4 per-process breakdown:
+  process 0 — dos:16  backdoor:2  recon:53
+  process 1 — dos:20  backdoor:0  recon:44
+  process 2 — dos:19  backdoor:3  recon:40
+  process 3 — dos:18  backdoor:1  recon:62
+batch 4 completed — dos:73 bkd:6 recon:199  checksum: 246009973
+
+batch 5 loaded (20000 logs)
+batch 5 per-process breakdown:
+  process 0 — dos:271  backdoor:262  recon:34
+  process 1 — dos:211  backdoor:202  recon:29
+  process 2 — dos:25  backdoor:1  recon:46
+  process 3 — dos:20  backdoor:1  recon:45
+batch 5 completed — dos:527 bkd:466 recon:154  checksum: 228459801
+
+batch 6 loaded (20000 logs)
+batch 6 per-process breakdown:
+  process 0 — dos:14  backdoor:4  recon:44
+  process 1 — dos:38  backdoor:5  recon:33
+  process 2 — dos:9  backdoor:2  recon:54
+  process 3 — dos:13  backdoor:0  recon:43
+batch 6 completed — dos:74 bkd:11 recon:174  checksum: 238870185
+
+batch 7 loaded (20000 logs)
+batch 7 per-process breakdown:
+  process 0 — dos:20  backdoor:2  recon:38
+  process 1 — dos:8  backdoor:3  recon:63
+  process 2 — dos:15  backdoor:1  recon:24
+  process 3 — dos:17  backdoor:3  recon:42
+batch 7 completed — dos:60 bkd:9 recon:167  checksum: 231388109
+
+batch 8 loaded (20000 logs)
+batch 8 per-process breakdown:
+  process 0 — dos:17  backdoor:2  recon:52
+  process 1 — dos:22  backdoor:3  recon:48
+  process 2 — dos:14  backdoor:0  recon:50
+  process 3 — dos:29  backdoor:0  recon:61
+batch 8 completed — dos:82 bkd:5 recon:211  checksum: 238100947
+
+batch 9 loaded (20000 logs)
+batch 9 per-process breakdown:
+  process 0 — dos:15  backdoor:9  recon:57
+  process 1 — dos:15  backdoor:2  recon:48
+  process 2 — dos:28  backdoor:3  recon:44
+  process 3 — dos:18  backdoor:0  recon:62
+batch 9 completed — dos:76 bkd:14 recon:211  checksum: 239858079
+
+batch 10 loaded (20000 logs)
+batch 10 per-process breakdown:
+  process 0 — dos:13  backdoor:1  recon:51
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 10 completed — dos:13 bkd:1 recon:51  checksum: 244067893
+
+batch 11 loaded (20000 logs)
+batch 11 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 11 completed — dos:0 bkd:0 recon:0  checksum: 246192168
+
+batch 12 loaded (20000 logs)
+batch 12 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 12 completed — dos:0 bkd:0 recon:0  checksum: 244683640
+
+batch 13 loaded (20000 logs)
+batch 13 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 13 completed — dos:0 bkd:0 recon:0  checksum: 245237548
+
+batch 14 loaded (20000 logs)
+batch 14 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 14 completed — dos:0 bkd:0 recon:0  checksum: 244565490
+
+batch 15 loaded (20000 logs)
+batch 15 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 15 completed — dos:0 bkd:0 recon:0  checksum: 245543787
+
+batch 16 loaded (20000 logs)
+batch 16 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 16 completed — dos:0 bkd:0 recon:0  checksum: 245111893
+
+batch 17 loaded (20000 logs)
+batch 17 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 17 completed — dos:0 bkd:0 recon:0  checksum: 245558948
+
+batch 18 loaded (20000 logs)
+batch 18 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 18 completed — dos:0 bkd:0 recon:0  checksum: 245850840
+
+batch 19 loaded (20000 logs)
+batch 19 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 19 completed — dos:0 bkd:0 recon:0  checksum: 245101637
+
+batch 20 loaded (20000 logs)
+batch 20 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 20 completed — dos:0 bkd:0 recon:0  checksum: 245154259
+
+batch 21 loaded (20000 logs)
+batch 21 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 21 completed — dos:0 bkd:0 recon:0  checksum: 248299350
+
+batch 22 loaded (20000 logs)
+batch 22 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 22 completed — dos:0 bkd:0 recon:0  checksum: 253860923
+
+batch 23 loaded (20000 logs)
+batch 23 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 23 completed — dos:0 bkd:0 recon:0  checksum: 254849726
+
+batch 24 loaded (20000 logs)
+batch 24 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 24 completed — dos:0 bkd:0 recon:0  checksum: 253261327
+
+batch 25 loaded (20000 logs)
+batch 25 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 25 completed — dos:0 bkd:0 recon:0  checksum: 248631814
+
+batch 26 loaded (20000 logs)
+batch 26 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 26 completed — dos:0 bkd:0 recon:0  checksum: 245965414
+
+batch 27 loaded (20000 logs)
+batch 27 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 27 completed — dos:0 bkd:0 recon:0  checksum: 245861321
+
+batch 28 loaded (20000 logs)
+batch 28 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 28 completed — dos:0 bkd:0 recon:0  checksum: 247235669
+
+batch 29 loaded (20000 logs)
+batch 29 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 29 completed — dos:0 bkd:0 recon:0  checksum: 246408769
+
+batch 30 loaded (20000 logs)
+batch 30 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 30 completed — dos:0 bkd:0 recon:0  checksum: 245346297
+
+batch 31 loaded (20000 logs)
+batch 31 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 31 completed — dos:0 bkd:0 recon:0  checksum: 245033476
+
+batch 32 loaded (20000 logs)
+batch 32 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 32 completed — dos:0 bkd:0 recon:0  checksum: 245122192
+
+batch 33 loaded (20000 logs)
+batch 33 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 33 completed — dos:0 bkd:0 recon:0  checksum: 244967527
+
+batch 34 loaded (20000 logs)
+batch 34 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 34 completed — dos:0 bkd:0 recon:0  checksum: 246832417
+
+batch 35 loaded (20000 logs)
+batch 35 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 35 completed — dos:0 bkd:0 recon:0  checksum: 243417051
+
+batch 36 loaded (0 logs)
+
+=== Reading file: UNSW-NB15_2.csv ===
+batch 1 loaded (20000 logs)
+batch 1 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 1 completed — dos:0 bkd:0 recon:0  checksum: 244208859
+
+batch 2 loaded (20000 logs)
+batch 2 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 2 completed — dos:0 bkd:0 recon:0  checksum: 244947400
+
+batch 3 loaded (20000 logs)
+batch 3 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 3 completed — dos:0 bkd:0 recon:0  checksum: 245734282
+
+batch 4 loaded (20000 logs)
+batch 4 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 4 completed — dos:0 bkd:0 recon:0  checksum: 246196227
+
+batch 5 loaded (20000 logs)
+batch 5 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 5 completed — dos:0 bkd:0 recon:0  checksum: 246410250
+
+batch 6 loaded (20000 logs)
+batch 6 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 6 completed — dos:0 bkd:0 recon:0  checksum: 245377807
+
+batch 7 loaded (20000 logs)
+batch 7 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 7 completed — dos:0 bkd:0 recon:0  checksum: 245902006
+
+batch 8 loaded (20000 logs)
+batch 8 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 8 completed — dos:0 bkd:0 recon:0  checksum: 246587906
+
+batch 9 loaded (20000 logs)
+batch 9 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 9 completed — dos:0 bkd:0 recon:0  checksum: 247408878
+
+batch 10 loaded (20000 logs)
+batch 10 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 10 completed — dos:0 bkd:0 recon:0  checksum: 245577057
+
+batch 11 loaded (20000 logs)
+batch 11 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 11 completed — dos:0 bkd:0 recon:0  checksum: 245457655
+
+batch 12 loaded (20000 logs)
+batch 12 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 12 completed — dos:0 bkd:0 recon:0  checksum: 245995788
+
+batch 13 loaded (20000 logs)
+batch 13 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 13 completed — dos:0 bkd:0 recon:0  checksum: 245837436
+
+batch 14 loaded (20000 logs)
+batch 14 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 14 completed — dos:0 bkd:0 recon:0  checksum: 245957841
+
+batch 15 loaded (20000 logs)
+batch 15 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 15 completed — dos:0 bkd:0 recon:0  checksum: 244889884
+
+batch 16 loaded (20000 logs)
+batch 16 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 16 completed — dos:0 bkd:0 recon:0  checksum: 247091385
+
+batch 17 loaded (20000 logs)
+batch 17 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 17 completed — dos:0 bkd:0 recon:0  checksum: 245469767
+
+batch 18 loaded (20000 logs)
+batch 18 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 18 completed — dos:0 bkd:0 recon:0  checksum: 246985671
+
+batch 19 loaded (20000 logs)
+batch 19 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 19 completed — dos:0 bkd:0 recon:0  checksum: 245900770
+
+batch 20 loaded (20000 logs)
+batch 20 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 20 completed — dos:0 bkd:0 recon:0  checksum: 245954373
+
+batch 21 loaded (20000 logs)
+batch 21 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 21 completed — dos:0 bkd:0 recon:0  checksum: 244674211
+
+batch 22 loaded (20000 logs)
+batch 22 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 22 completed — dos:0 bkd:0 recon:0  checksum: 244071740
+
+batch 23 loaded (20000 logs)
+batch 23 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 23 completed — dos:0 bkd:0 recon:0  checksum: 212788315
+
+batch 24 loaded (20000 logs)
+batch 24 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 24 completed — dos:0 bkd:0 recon:0  checksum: 226105008
+
+batch 25 loaded (20000 logs)
+batch 25 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 25 completed — dos:0 bkd:0 recon:0  checksum: 224450974
+
+batch 26 loaded (20000 logs)
+batch 26 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 26 completed — dos:0 bkd:0 recon:0  checksum: 220402186
+
+batch 27 loaded (20000 logs)
+batch 27 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 27 completed — dos:0 bkd:0 recon:0  checksum: 229882620
+
+batch 28 loaded (20000 logs)
+batch 28 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 28 completed — dos:0 bkd:0 recon:0  checksum: 239179270
+
+batch 29 loaded (20000 logs)
+batch 29 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 29 completed — dos:0 bkd:0 recon:0  checksum: 245735454
+
+batch 30 loaded (20000 logs)
+batch 30 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 30 completed — dos:0 bkd:0 recon:0  checksum: 245776475
+
+batch 31 loaded (20000 logs)
+batch 31 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 31 completed — dos:0 bkd:0 recon:0  checksum: 244531628
+
+batch 32 loaded (20000 logs)
+batch 32 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 32 completed — dos:0 bkd:0 recon:0  checksum: 244226034
+
+batch 33 loaded (20000 logs)
+batch 33 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 33 completed — dos:0 bkd:0 recon:0  checksum: 231886601
+
+batch 34 loaded (20000 logs)
+batch 34 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 34 completed — dos:0 bkd:0 recon:0  checksum: 205942333
+
+batch 35 loaded (20000 logs)
+batch 35 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 35 completed — dos:0 bkd:0 recon:0  checksum: 221661923
+
+batch 36 loaded (0 logs)
+
+=== Reading file: UNSW-NB15_3.csv ===
+batch 1 loaded (20000 logs)
+batch 1 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 1 completed — dos:0 bkd:0 recon:0  checksum: 217047256
+
+batch 2 loaded (20000 logs)
+batch 2 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 2 completed — dos:0 bkd:0 recon:0  checksum: 210863783
+
+batch 3 loaded (20000 logs)
+batch 3 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 3 completed — dos:0 bkd:0 recon:0  checksum: 205395445
+
+batch 4 loaded (20000 logs)
+batch 4 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 4 completed — dos:0 bkd:0 recon:0  checksum: 215367104
+
+batch 5 loaded (20000 logs)
+batch 5 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 5 completed — dos:0 bkd:0 recon:0  checksum: 221045236
+
+batch 6 loaded (20000 logs)
+batch 6 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 6 completed — dos:0 bkd:0 recon:0  checksum: 219116622
+
+batch 7 loaded (20000 logs)
+batch 7 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 7 completed — dos:0 bkd:0 recon:0  checksum: 216877701
+
+batch 8 loaded (20000 logs)
+batch 8 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 8 completed — dos:0 bkd:0 recon:0  checksum: 246796297
+
+batch 9 loaded (20000 logs)
+batch 9 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 9 completed — dos:0 bkd:0 recon:0  checksum: 243044199
+
+batch 10 loaded (20000 logs)
+batch 10 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 10 completed — dos:0 bkd:0 recon:0  checksum: 244361314
+
+batch 11 loaded (20000 logs)
+batch 11 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 11 completed — dos:0 bkd:0 recon:0  checksum: 241527075
+
+batch 12 loaded (20000 logs)
+batch 12 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 12 completed — dos:0 bkd:0 recon:0  checksum: 205919456
+
+batch 13 loaded (20000 logs)
+batch 13 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 13 completed — dos:0 bkd:0 recon:0  checksum: 219905643
+
+batch 14 loaded (20000 logs)
+batch 14 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 14 completed — dos:0 bkd:0 recon:0  checksum: 221350909
+
+batch 15 loaded (20000 logs)
+batch 15 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 15 completed — dos:0 bkd:0 recon:0  checksum: 214345902
+
+batch 16 loaded (20000 logs)
+batch 16 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 16 completed — dos:0 bkd:0 recon:0  checksum: 212197698
+
+batch 17 loaded (20000 logs)
+batch 17 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 17 completed — dos:0 bkd:0 recon:0  checksum: 223541348
+
+batch 18 loaded (20000 logs)
+batch 18 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 18 completed — dos:0 bkd:0 recon:0  checksum: 226422629
+
+batch 19 loaded (20000 logs)
+batch 19 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 19 completed — dos:0 bkd:0 recon:0  checksum: 224157272
+
+batch 20 loaded (20000 logs)
+batch 20 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 20 completed — dos:0 bkd:0 recon:0  checksum: 246423125
+
+batch 21 loaded (20000 logs)
+batch 21 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 21 completed — dos:0 bkd:0 recon:0  checksum: 244859365
+
+batch 22 loaded (20000 logs)
+batch 22 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 22 completed — dos:0 bkd:0 recon:0  checksum: 242384412
+
+batch 23 loaded (20000 logs)
+batch 23 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 23 completed — dos:0 bkd:0 recon:0  checksum: 244489783
+
+batch 24 loaded (20000 logs)
+batch 24 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 24 completed — dos:0 bkd:0 recon:0  checksum: 221915830
+
+batch 25 loaded (20000 logs)
+batch 25 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 25 completed — dos:0 bkd:0 recon:0  checksum: 212260553
+
+batch 26 loaded (20000 logs)
+batch 26 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 26 completed — dos:0 bkd:0 recon:0  checksum: 227816983
+
+batch 27 loaded (20000 logs)
+batch 27 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 27 completed — dos:0 bkd:0 recon:0  checksum: 219609942
+
+batch 28 loaded (20000 logs)
+batch 28 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 28 completed — dos:0 bkd:0 recon:0  checksum: 210231179
+
+batch 29 loaded (20000 logs)
+batch 29 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 29 completed — dos:0 bkd:0 recon:0  checksum: 210609807
+
+batch 30 loaded (20000 logs)
+batch 30 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 30 completed — dos:0 bkd:0 recon:0  checksum: 220057550
+
+batch 31 loaded (20000 logs)
+batch 31 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 31 completed — dos:0 bkd:0 recon:0  checksum: 225532811
+
+batch 32 loaded (20000 logs)
+batch 32 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 32 completed — dos:0 bkd:0 recon:0  checksum: 221063260
+
+batch 33 loaded (20000 logs)
+batch 33 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 33 completed — dos:0 bkd:0 recon:0  checksum: 217963165
+
+batch 34 loaded (20000 logs)
+batch 34 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 34 completed — dos:0 bkd:0 recon:0  checksum: 246035752
+
+batch 35 loaded (20000 logs)
+batch 35 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 35 completed — dos:0 bkd:0 recon:0  checksum: 243334153
+
+batch 36 loaded (0 logs)
+
+=== Reading file: UNSW-NB15_4.csv ===
+batch 1 loaded (20000 logs)
+batch 1 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 1 completed — dos:0 bkd:0 recon:0  checksum: 245037609
+
+batch 2 loaded (20000 logs)
+batch 2 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 2 completed — dos:0 bkd:0 recon:0  checksum: 242233509
+
+batch 3 loaded (20000 logs)
+batch 3 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 3 completed — dos:0 bkd:0 recon:0  checksum: 206907253
+
+batch 4 loaded (20000 logs)
+batch 4 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 4 completed — dos:0 bkd:0 recon:0  checksum: 220592526
+
+batch 5 loaded (20000 logs)
+batch 5 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 5 completed — dos:0 bkd:0 recon:0  checksum: 227158092
+
+batch 6 loaded (20000 logs)
+batch 6 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 6 completed — dos:0 bkd:0 recon:0  checksum: 212369565
+
+batch 7 loaded (20000 logs)
+batch 7 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 7 completed — dos:0 bkd:0 recon:0  checksum: 209758415
+
+batch 8 loaded (20000 logs)
+batch 8 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 8 completed — dos:0 bkd:0 recon:0  checksum: 220675486
+
+batch 9 loaded (20000 logs)
+batch 9 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 9 completed — dos:0 bkd:0 recon:0  checksum: 228697169
+
+batch 10 loaded (20000 logs)
+batch 10 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 10 completed — dos:0 bkd:0 recon:0  checksum: 224550607
+
+batch 11 loaded (20000 logs)
+batch 11 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 11 completed — dos:0 bkd:0 recon:0  checksum: 223680187
+
+batch 12 loaded (20000 logs)
+batch 12 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 12 completed — dos:0 bkd:0 recon:0  checksum: 246627601
+
+batch 13 loaded (20000 logs)
+batch 13 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 13 completed — dos:0 bkd:0 recon:0  checksum: 242353892
+
+batch 14 loaded (20000 logs)
+batch 14 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 14 completed — dos:0 bkd:0 recon:0  checksum: 245568135
+
+batch 15 loaded (20000 logs)
+batch 15 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 15 completed — dos:0 bkd:0 recon:0  checksum: 233079927
+
+batch 16 loaded (20000 logs)
+batch 16 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 16 completed — dos:0 bkd:0 recon:0  checksum: 209760478
+
+batch 17 loaded (20000 logs)
+batch 17 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 17 completed — dos:0 bkd:0 recon:0  checksum: 223167945
+
+batch 18 loaded (20000 logs)
+batch 18 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 18 completed — dos:0 bkd:0 recon:0  checksum: 222581363
+
+batch 19 loaded (20000 logs)
+batch 19 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 19 completed — dos:0 bkd:0 recon:0  checksum: 216805735
+
+batch 20 loaded (20000 logs)
+batch 20 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 20 completed — dos:0 bkd:0 recon:0  checksum: 215373504
+
+batch 21 loaded (20000 logs)
+batch 21 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 21 completed — dos:0 bkd:0 recon:0  checksum: 227150943
+
+batch 22 loaded (20000 logs)
+batch 22 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 22 completed — dos:0 bkd:0 recon:0  checksum: 228024730
+
+batch 23 loaded (43 logs)
+batch 23 per-process breakdown:
+  process 0 — dos:0  backdoor:0  recon:0
+  process 1 — dos:0  backdoor:0  recon:0
+  process 2 — dos:0  backdoor:0  recon:0
+  process 3 — dos:0  backdoor:0  recon:0
+batch 23 completed — dos:0 bkd:0 recon:0  checksum: 521432
+
+batch 24 loaded (0 logs)
+
+========== FINAL RESULTS ==========
+DoS attacks:            1167
+Backdoor attacks:       534
+Reconnaissance attacks: 1759
+Total malicious:        3460
+Global checksum:        29833185496
+Execution time:         4.107798 seconds
